@@ -1,6 +1,6 @@
 # Syamsul-Bakhri
 Syamsul Bakhri 227006516081
-# UAS Machine Learning - Wholesale Customers Dataset
+# UAS Machine Learning R.02 - Wholesale Customers Dataset
 
 ## Deskripsi
 Analisis clustering pada dataset Wholesale Customers menggunakan K-Means Clustering.
